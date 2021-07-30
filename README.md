@@ -1,1 +1,1 @@
-# ghost-game
+# ghostClimberTemplate
